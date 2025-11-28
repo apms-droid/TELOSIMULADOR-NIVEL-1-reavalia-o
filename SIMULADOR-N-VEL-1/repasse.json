@@ -1,0 +1,654 @@
+[
+{
+    "orgao": "Polícia Civil", 
+    "data": "01/01/2024", 
+    "valor": 5500.00, 
+    "status": "sucesso" 
+},
+{ 
+    "orgao": "Polícia Rodoviária Federal", 
+    "data": "02/01/2024", 
+    "valor": 6000.00,
+    "status": "falha", "motivo": "Problemas técnicos"
+}, 
+{ 
+    "orgao": "Polícia Militar", 
+    "data": "03/01/2024", 
+    "valor": 4500.00, 
+    "status": "sucesso" 
+}, 
+{ 
+    "orgao": "Corpo de Bombeiros",
+    "data": "04/01/2024", 
+    "valor": 7000.00, 
+    "status": "sucesso" 
+}, 
+{   "orgao": "Guarda Municipal",
+    "data": "05/01/2024", 
+    "valor": 3500.00, 
+    "status": "falha", 
+    "motivo": "Documentação incompleta" 
+}, 
+{
+    "orgao": "Receita Federal", 
+    "data": "06/01/2024",
+    "valor": 8000.00, 
+    "status": "sucesso" 
+}, 
+{
+    "orgao": "Ministério Público", 
+    "data": "07/01/2024",
+    "valor": 9000.00, 
+    "status": "falha", 
+    "motivo": "Erro no sistema" 
+}, 
+{ 
+    "orgao": "Defesa Civil",
+    "data": "08/01/2024", 
+    "valor": 4000.00, 
+    "status": "sucesso" 
+}, 
+{ 
+    "orgao": "Detran", 
+    "data": "09/01/2024", 
+    "valor": 5000.00, 
+    "status": "sucesso" 
+}, 
+{ 
+    "orgao": "Polícia Federal",
+    "data": "10/01/2024", 
+    "valor": 6500.00, 
+    "status": "falha", 
+    "motivo": "Falta de recursos" 
+}, 
+{
+    "orgao": "Ibama", 
+    "data": "11/01/2024", 
+    "valor": 5500.00, 
+    "status": "sucesso" 
+}, 
+{ 
+    "orgao": "Anvisa", 
+    "data": "12/01/2024", 
+    "valor": 6000.00, 
+    "status": "sucesso" 
+}, 
+{ 
+    "orgao": "Inmetro", 
+    "data": "13/01/2024", 
+    "valor": 3000.00, 
+    "status": "falha", 
+    "motivo": "Dados incorretos" 
+}, 
+{ 
+    "orgao": "Cetesb", 
+    "data": "14/01/2024", 
+    "valor": 7000.00, 
+    "status": "sucesso" 
+},
+{ 
+    "orgao": "Susep", 
+    "data": "15/01/2024", 
+    "valor": 8000.00, 
+    "status": "falha", 
+    "motivo": "Problemas técnicos" 
+}, 
+{
+    "orgao": "Polícia Civil", 
+    "data": "16/01/2024",
+    "valor": 5200.00, 
+    "status": "sucesso" 
+},
+{
+    "orgao": "Polícia Rodoviária Federal", 
+    "data": "17/01/2024", 
+    "valor": 6100.00, 
+    "status": "falha", 
+    "motivo": "Erro humano" 
+},
+{
+    "orgao": "Polícia Militar", 
+    "data": "18/01/2024",
+    "valor": 4600.00, 
+    "status": "sucesso" 
+},
+{
+    "orgao": "Corpo de Bombeiros", 
+    "data": "19/01/2024",
+    "valor": 7100.00, 
+    "status": "sucesso" 
+},
+{ 
+    "orgao": "Guarda Municipal", 
+    "data": "20/01/2024",
+    "valor": 3600.00, 
+    "status": "falha", 
+    "motivo": "Sistema fora do ar" 
+},
+{ 
+    "orgao": "Receita Federal", 
+    "data": "21/01/2024", 
+    "valor": 8100.00,
+    "status": "sucesso" 
+},
+{
+    "orgao": "Ministério Público", 
+    "data": "22/01/2024", 
+    "valor": 9100.00,
+    "status": "falha", 
+    "motivo": "Recursos insuficientes"
+}, 
+{ 
+    "orgao": "Defesa Civil", 
+    "data": "23/01/2024", 
+    "valor": 4100.00, 
+    "status": "sucesso" 
+},
+{ 
+    "orgao": "Detran", 
+    "data": "24/01/2024", 
+    "valor": 5100.00, 
+    "status": "sucesso" 
+},
+{ 
+    "orgao": "Polícia Federal",
+    "data": "25/01/2024", 
+    "valor": 6600.00, 
+    "status": "falha", 
+    "motivo": "Problemas técnicos" 
+},
+{
+    "orgao": "Ibama", 
+    "data": "26/01/2024", 
+    "valor": 5600.00, 
+    "status": "sucesso" 
+},
+{  
+    "orgao": "Anvisa",
+    "data": "27/01/2024", 
+    "valor": 6100.00, 
+    "status": "sucesso" 
+},
+{ 
+    "orgao": "Inmetro", 
+    "data": "28/01/2024", 
+    "valor": 3100.00, 
+    "status": "falha", 
+    "motivo": "Dados incorretos" 
+},
+{  
+    "orgao": "Cetesb", 
+    "data": "29/01/2024", 
+    "valor": 7100.00, 
+    "status": "sucesso" 
+},
+{ 
+    "orgao": "Susep", 
+    "data": "30/01/2024", 
+    "valor": 8100.00, 
+    "status": "falha", 
+    "motivo": "Problemas técnicos" 
+},
+{
+    "orgao": "Polícia Civil", 
+    "data": "31/01/2024",
+    "valor": 5300.00, 
+    "status": "sucesso" 
+},
+{
+    "orgao": "Polícia Rodoviária Federal", 
+    "data": "01/01/2024", 
+    "valor": 6200.00, 
+    "status": "falha", 
+    "motivo": "Erro humano" 
+},
+{
+    "orgao": "Polícia Militar", 
+    "data": "02/01/2024",
+    "valor": 4700.00, 
+    "status": "sucesso" 
+},
+{
+    "orgao": "Corpo de Bombeiros", 
+    "data": "03/01/2024",
+    "valor": 7200.00, 
+    "status": "sucesso" 
+},
+{
+    "orgao": "Guarda Municipal", 
+    "data": "04/01/2024",
+    "valor": 3700.00, 
+    "status": "falha", 
+    "motivo": "Sistema fora do ar" 
+},
+{ 
+    "orgao": "Receita Federal", 
+    "data": "05/01/2024", 
+    "valor": 8200.00,
+    "status": "sucesso" 
+},
+{ 
+    "orgao": "Ministério Público", 
+    "data": "06/01/2024", 
+    "valor": 9200.00,
+    "status": "falha", 
+    "motivo": "Recursos insuficientes"
+}, 
+{ 
+    "orgao": "Defesa Civil", 
+    "data": "07/01/2024", 
+    "valor": 4200.00, 
+    "status": "sucesso" 
+},
+{
+    "orgao": "Detran", 
+    "data": "08/01/2024", 
+    "valor": 5200.00, 
+    "status": "sucesso" 
+},
+{ 
+    "orgao": "Polícia Federal",
+    "data": "09/01/2024", 
+    "valor": 6700.00, 
+    "status": "falha", 
+    "motivo": "Problemas técnicos" 
+},
+{
+    "orgao": "Ibama", 
+    "data": "10/01/2024", 
+    "valor": 5700.00, 
+    "status": "sucesso" 
+}, 
+{ 
+    "orgao": "Anvisa", 
+    "data": "11/01/2024",
+    "valor": 6200.00, 
+    "status": "sucesso" 
+},
+{
+    "orgao": "Inmetro", 
+    "data": "12/01/2024",
+    "valor": 3200.00, 
+    "status": "falha", 
+    "motivo": "Dados incorretos" 
+},
+{
+    "orgao": "Cetesb",
+    "data": "13/01/2024", 
+    "valor": 7200.00, 
+    "status": "sucesso" 
+},
+{ 
+    "orgao": "Susep", 
+    "data": "14/01/2024", 
+    "valor": 8200.00, 
+    "status": "falha", 
+    "motivo": "Problemas técnicos" 
+},
+{
+    "orgao": "Polícia Civil", 
+    "data": "15/01/2024",
+    "valor": 5400.00, 
+    "status": "sucesso" 
+}, 
+{
+    "orgao": "Polícia Rodoviária Federal", 
+    "data": "16/01/2024", 
+    "valor": 6300.00, 
+    "status": "falha", 
+    "motivo": "Erro humano" 
+},
+{
+    "orgao": "Polícia Militar", 
+    "data": "17/01/2024",
+    "valor": 4800.00, 
+    "status": "sucesso" 
+},
+{
+    "orgao": "Corpo de Bombeiros", 
+    "data": "18/01/2024",
+    "valor": 7300.00, 
+    "status": "sucesso" 
+},
+{
+    "orgao": "Guarda Municipal", 
+    "data": "19/01/2024",
+    "valor": 3800.00, 
+    "status": "falha", 
+    "motivo": "Sistema fora do ar" 
+},
+{ 
+    "orgao": "Receita Federal", 
+    "data": "20/01/2024", 
+    "valor": 8300.00,
+    "status": "sucesso" 
+},
+{ 
+    "orgao": "Ministério Público", 
+    "data": "21/01/2024", 
+    "valor": 9300.00,
+    "status": "falha", 
+    "motivo": "Recursos insuficientes"
+}, 
+{ 
+    "orgao": "Defesa Civil", 
+    "data": "22/01/2024", 
+    "valor": 4300.00, "status":
+    "sucesso" }, { "orgao": "Detran", 
+    "data": "23/01/2024", 
+    "valor": 5300.00, 
+    "status": "sucesso" 
+}, 
+{ 
+    "orgao": "Polícia Federal",
+    "data": "24/01/2024", 
+    "valor": 6800.00, 
+    "status": "falha", 
+    "motivo": "Problemas técnicos" 
+},
+{
+    "orgao": "Ibama", 
+    "data": "25/01/2024", 
+    "valor": 5800.00, 
+    "status": "sucesso" 
+},
+{ 
+    "orgao": "Anvisa", 
+    "data": "26/01/2024", 
+    "valor": 6300.00, 
+    "status": "sucesso" 
+}, 
+{ 
+    "orgao": "Inmetro", 
+    "data": "27/01/2024", 
+    "valor": 3300.00, 
+    "status": "falha", 
+    "motivo": "Dados incorretos" 
+}, 
+{
+     "orgao": "Cetesb", 
+     "data": "28/01/2024", 
+     "valor": 7300.00, 
+     "status": "sucesso" 
+}, 
+{ 
+    "orgao": "Susep", 
+    "data": "29/01/2024", 
+    "valor": 8300.00, 
+    "status": "falha", 
+    "motivo": "Problemas técnicos" 
+},
+{
+    "orgao": "Polícia Civil", 
+    "data": "30/01/2024",
+    "valor": 5500.00, 
+    "status": "sucesso" 
+}, 
+{
+    "orgao": "Polícia Rodoviária Federal", 
+    "data": "31/01/2024", 
+    "valor": 6400.00, 
+    "status": "falha", 
+    "motivo": "Erro humano" 
+}, 
+{
+    "orgao": "Polícia Militar", 
+    "data": "01/01/2024",
+    "valor": 4900.00, 
+    "status": "sucesso" 
+}, 
+{
+    "orgao": "Corpo de Bombeiros", 
+    "data": "02/01/2024",
+    "valor": 7400.00, 
+    "status": "sucesso" 
+}, 
+{
+    "orgao": "Guarda Municipal", 
+    "data": "03/01/2024",
+    "valor": 3900.00, 
+    "status": "falha", 
+    "motivo": "Sistema fora do ar" 
+}, 
+{ 
+    "orgao": "Receita Federal", 
+    "data": "04/01/2024", 
+    "valor": 8400.00,
+    "status": "sucesso" 
+}, 
+{ 
+    "orgao": "Ministério Público", 
+    "data": "05/01/2024", 
+    "valor": 9400.00,
+    "status": "falha", 
+    "motivo": "Recursos insuficientes"
+}, 
+{ 
+    "orgao": "Defesa Civil", 
+    "data": "06/01/2024", 
+    "valor": 4400.00, 
+    "status": "sucesso" 
+},
+{
+    "orgao": "Detran", 
+    "data": "07/01/2024", 
+    "valor": 5400.00, 
+    "status": "sucesso" 
+},
+{ 
+    "orgao": "Polícia Federal",
+    "data": "08/01/2024", 
+    "valor": 6900.00, 
+    "status": "falha", 
+    "motivo": "Problemas técnicos" 
+}, 
+{
+    "orgao": "Ibama", 
+    "data": "09/01/2024", 
+    "valor": 5900.00, 
+    "status": "sucesso" 
+}, 
+{ 
+    "orgao": "Anvisa", 
+    "data": "10/01/2024", 
+    "valor": 6400.00, 
+    "status": "sucesso" 
+}, 
+{   
+    "orgao": "Inmetro", 
+    "data": "11/01/2024", 
+    "valor": 3400.00, 
+    "status": "falha", 
+    "motivo": "Dados incorretos" 
+}, 
+{ 
+    "orgao": "Cetesb", 
+    "data": "12/01/2024", 
+    "valor": 7400.00, 
+    "status": "sucesso" 
+}, 
+{ 
+    "orgao": "Susep", 
+    "data": "13/01/2024", 
+    "valor": 8400.00, 
+    "status": "falha", 
+    "motivo": "Problemas técnicos" 
+}, 
+{
+    "orgao": "Polícia Civil", 
+    "data": "14/01/2024",
+    "valor": 5600.00, 
+    "status": "sucesso" 
+},
+{
+    "orgao": "Polícia Rodoviária Federal", 
+    "data": "15/01/2024", 
+    "valor": 6500.00, 
+    "status": "falha", 
+    "motivo": "Erro humano" 
+}, 
+{
+    "orgao": "Polícia Militar", 
+    "data": "16/01/2024",
+    "valor": 5000.00, 
+    "status": "sucesso" 
+},
+{
+    "orgao": "Corpo de Bombeiros", 
+    "data": "17/01/2024",
+    "valor": 7500.00, 
+    "status": "sucesso" 
+}, 
+{
+    "orgao": "Guarda Municipal", 
+    "data": "18/01/2024",
+    "valor": 4000.00, 
+    "status": "falha", 
+    "motivo": "Sistema fora do ar" 
+}, 
+{ 
+    "orgao": "Receita Federal", 
+    "data": "19/01/2024", 
+    "valor": 8500.00,
+    "status": "sucesso" 
+},
+{
+    "orgao": "Ministério Público", 
+    "data": "20/01/2024", 
+    "valor": 9500.00,
+    "status": "falha", 
+    "motivo": "Recursos insuficientes"
+}, 
+{ 
+    "orgao": "Defesa Civil", 
+    "data": "21/01/2024", 
+    "valor": 4500.00, 
+    "status": "sucesso"
+}, 
+{  
+    "orgao": "Detran", 
+    "data": "22/01/2024", 
+    "valor": 5500.00, 
+    "status": "sucesso" 
+}, 
+{ 
+    "orgao": "Polícia Federal",
+    "data": "23/01/2024", 
+    "valor": 7000.00, 
+    "status": "falha", 
+    "motivo": "Problemas técnicos" 
+}, 
+{
+    "orgao": "Ibama", 
+    "data": "24/01/2024", 
+    "valor": 6000.00, 
+    "status": "sucesso" 
+}, 
+{ 
+    "orgao": "Anvisa", 
+    "data": "25/01/2024", 
+    "valor": 6500.00, 
+    "status": "sucesso" 
+}, 
+{ 
+    "orgao": "Inmetro", 
+    "data": "26/01/2024", 
+    "valor": 3500.00, 
+    "status": "falha", 
+    "motivo": "Dados incorretos" 
+}, 
+{ 
+    "orgao": "Cetesb", 
+    "data": "27/01/2024", 
+    "valor": 7500.00, 
+    "status": "sucesso"
+},
+{ 
+    "orgao": "Susep", 
+    "data": "28/01/2024", 
+    "valor": 8500.00, 
+    "status": "falha", 
+    "motivo": "Problemas técnicos" 
+}, 
+{
+    "orgao": "Polícia Civil", 
+    "data": "29/01/2024",
+    "valor": 5700.00, 
+    "status": "sucesso" 
+},
+{
+    "orgao": "Polícia Rodoviária Federal", 
+    "data": "30/01/2024", 
+    "valor": 6600.00, 
+    "status": "falha", 
+    "motivo": "Erro humano" 
+},
+{
+     "orgao": "Polícia Militar", 
+     "data": "31/01/2024",
+     "valor": 5100.00, 
+     "status": "sucesso" 
+},
+{
+    "orgao":"MEC",
+    "data":"01/01/2024",
+    "valor":500.00,
+    "status":"sucesso"
+},
+{   "orgao":"Ministério da Saúde",
+    "data":"03/01/2024",
+    "valor":750.00,
+    "status":"sucesso"
+},
+{
+    "orgao":"MEC",
+    "data":"05/01/2024",
+    "valor":1000.00,
+    "status" :"sucesso"
+},
+{
+    "orgao":"Ministério da Educação",
+    "data":"08/01/2024",
+    "valor":600.00,
+    "status":"sucesso"
+},
+{
+    "orgao":"Ministério da Saúde",
+    "data":"10/01/2024",
+    "valor":900.00,
+    "status":"sucesso"
+},
+{
+    "orgao":"Ministério da Educação",
+    "data":"12/01/2024",
+    "valor":300.00,
+    "status":"falha",
+    "motivo":"dados inválidos"
+},
+{
+    "orgao":"Ministério da Saúde",
+    "data":"15/01/2024",
+    "valor":1200.00,
+    "status":"sucesso"
+},
+{
+    "orgao":"MEC",
+    "data":"17/01/2024",
+    "valor":800.00,
+    "status":"falha",
+    "motivo":"falta de verba"
+},
+{
+    "orgao":"Ministério da Educação",
+    "data":"20/01/2024",
+    "valor":400.00,
+    "status":"falha",
+    "motivo":"falta de limite"
+},
+{
+    "orgao":"MEC",
+    "data":"22/01/2024",
+    "valor":1100.00,
+    "status":"falha"
+}
+]
